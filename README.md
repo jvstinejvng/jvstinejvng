@@ -18,7 +18,7 @@ Software Engineer | Marathon Runner
 
 ***** 
 
-### <b style="color:F2ACB9">About Me</b>
+## <b>About Me</b>
  <p> 
  👩‍💻 I am a full-stack software engineer from San Francisco.
  
@@ -26,7 +26,7 @@ Software Engineer | Marathon Runner
  
 <br>
 
-### <b style="color:F2ACB9" >My Tech Stack</b>
+## <b>My Tech Stack</b>
 <details>
 <summary><b>Languages, Framworks & Tools I Build With</b></summary>
 
@@ -68,7 +68,7 @@ Software Engineer | Marathon Runner
 
 <br>
 
-### <b style="color:F2ACB9">Take a Peek at My GitHub Stats</b>
+## <b>Take a Peek at My GitHub Stats</b>
 
 <details>
 <summary><b>The GitHub Profile Stats</b></summary>
@@ -79,7 +79,7 @@ Software Engineer | Marathon Runner
 <details>
 <summary><b>Most Used Languages</b></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvstinejvng&bg_color=00000000&langs_count=3&text_color=F2ACB9&hide_title=true&hide_border=true)](https://github.com/jvstinejvng/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvstinejvng&bg_color=00000000&langs_count=3&text_color=F2ACB9&hide_title=true&hide_border=true)](https://github.com/jvstinejvng/github-readme-stats&width=)
 
 </details>
 <details>
