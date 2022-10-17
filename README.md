@@ -11,22 +11,22 @@ Software Engineer | Marathon Runner
 
 <a href="mailto:justinejang415@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&color=F2ACB9&logoColor=white" alt="gmail badge"/>
-</a>
-<a href="https://www.linkedin.com/in/jvstinejvng/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=F2ACB9" alt="LinkedIn Badge"/></a>
+</a> <a href="https://www.linkedin.com/in/jvstinejvng/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=F2ACB9" alt="LinkedIn Badge"/></a> <a href="https://jvstinejvng.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&color=F2ACB9&logoColor=#FF7139" alt="Portfolio Badge"/></a>
+
  
 </div>
 
 ***** 
 
-## <b>About Me</b>
- <p> 
- 👩‍💻 I am a full-stack software engineer from San Francisco.
- 
-</p>
+## 🌸 About Me 
+
+👩‍💻 I am a full-stack software engineer from San Francisco.
+
+👟 Currently training to run half the 2023 San Francisco marathon.
  
 <br>
 
-## <b>My Tech Stack</b>
+## <b>🥞 My Tech Stack</b>
 <details>
 <summary><b>Languages, Framworks & Tools I Build With</b></summary>
 
@@ -68,7 +68,7 @@ Software Engineer | Marathon Runner
 
 <br>
 
-## <b>Take a Peek at My GitHub Stats</b>
+## <b>🔎 Take a Peek at My GitHub Stats</b>
 
 <details>
 <summary><b>The GitHub Profile Stats</b></summary>
