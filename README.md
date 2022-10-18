@@ -1,13 +1,13 @@
 
 <div align=center>
 
-## Why hello there, it's nice to meet you! 
+# Why hello there, it's nice to meet you! 
 ![](https://komarev.com/ghpvc/?username=jvstinejvng&color=F2ACB9&style=flat-square)
 
 <img src='https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif' width='175px'>
 
 ## My name is Justine! 
-Software Engineer | Marathon Runner   
+Software Engineer | Marathon Runner 
 
 <a href="mailto:justinejang415@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&color=F2ACB9&logoColor=white" alt="gmail badge"/>
@@ -18,17 +18,17 @@ Software Engineer | Marathon Runner
 
 ***** 
 
-## 🌸 About Me 
+## <b>🌸 About Me</b>
 
 👩‍💻 I am a full-stack software engineer from San Francisco.
 
-👟 Currently training to run half the 2023 San Francisco marathon.
+👟 I am currently training to run the 2023 San Francisco half marathon.
  
 <br>
 
 ## <b>🥞 My Tech Stack</b>
 <details>
-<summary><b>Languages, Framworks & Tools I Build With</b></summary>
+<summary>Languages, Framworks & Tools I Build With</summary>
 
 <h4 style="color:white"><b>🌐 Languages</b></h4>
 
@@ -71,17 +71,16 @@ Software Engineer | Marathon Runner
 ## <b>🔎 Take a Peek at My GitHub Stats</b>
 
 <details>
-<summary><b>The GitHub Profile Stats</b></summary>
+<summary><b>The GitHub Profile Stats and My Most Used Languages</b></summary>
+
+<div>
 
 ![Justine's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvstinejvng&show_icons=true&hide_border=true&bg_color=00000000&hide_title=true&text_color=F2ACB9&icon_color=FFFFFF&hide_rank=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvstinejvng&bg_color=00000000&langs_count=3&text_color=F2ACB9&hide_border=true&hide_title=true)](https://github.com/jvstinejvng/github-readme-stats&width=)
+</div>
 
 </details>
-<details>
-<summary><b>Most Used Languages</b></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvstinejvng&bg_color=00000000&langs_count=3&text_color=F2ACB9&hide_title=true&hide_border=true)](https://github.com/jvstinejvng/github-readme-stats&width=)
-
-</details>
 <details>
 <summary><b>Current Streak</b></summary>
 
