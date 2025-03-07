@@ -7,7 +7,7 @@
 <img src='https://media.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif' width='175px'>
 
 ## My name is Justine! 
-Software Engineer | Marathon Runner 
+Software Engineer | Runner 
 
 <a href="mailto:justinejang415@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&color=F2ACB9&logoColor=white" alt="gmail badge"/>
@@ -22,7 +22,6 @@ Software Engineer | Marathon Runner
 
 👩‍💻 I am a full-stack software engineer from San Francisco.
 
-👟 I am currently training to run the 2023 San Francisco half marathon.
  
 <br>
 
